@@ -3,6 +3,7 @@
 // SWE 202 SOFTWARE VERIFICATION AND VALIDATION
 // 2023-2024 SPRING SEMESTER
 // Homework 1
+// GitHub repository: https://github.com/femrek-pf/swe202-hw1
 
 package org.example;
 
